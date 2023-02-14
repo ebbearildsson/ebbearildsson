@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebbearildsson
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning rust.
-- 💞️ I’m looking to collaborate on fun projekts!
+- 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: ebbe@arildsson.dev   
 
 <!---
